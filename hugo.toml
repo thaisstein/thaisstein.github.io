@@ -1,0 +1,5 @@
+baseURL = "https://thaisstein.github.io"
+languageCode = 'en-us'
+title = 'My journey as a developer'
+publishDir = "docs"
+theme = "nightfall"
