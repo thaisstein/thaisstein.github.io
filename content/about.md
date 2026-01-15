@@ -1,10 +1,10 @@
 +++
-title = "About"
+title = "ABOUT ME"
 date = 2026-01-15T12:00:00-00:00
 draft = false
 +++
 
-# ABOUT
+# ABOUT ME
 
 ![My journey as a developer](/images/avatar.png)
 
