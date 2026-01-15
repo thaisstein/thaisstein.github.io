@@ -3,16 +3,13 @@ languageCode = 'en-US'
 title = "Your Site Title"
 theme = "mana"
 
-[caches]
-  [caches.images]
-  dir = 'cacheDir/images'
 # Theme configuration
 [params]
   description = "My dev journey"
   author = "Your Name"
   favicon = "/favicon/logo-transparent/favicon.ico"
   heroTitleLine1 = "THAÍS STEINMULLER"
-  heroTitleLine2 = "TEST"
+  heroTitleLine2 = "MY BLOG"
   
   # 404 Page Configuration
   # Custom message for the 404 error page (supports HTML)
@@ -155,5 +152,6 @@ weight = 40
 [params.admonitions]
     # Choose between "emoji" and "favicon" (image)
     alertStyle = "favicon" 
-
-
+[caches]
+  [caches.images]
+  dir = 'cacheDir/images'
