@@ -154,4 +154,4 @@ weight = 40
     alertStyle = "favicon" 
 [caches]
   [caches.images]
-  dir = 'cacheDir/images'
+    dir = ':cacheDir/images'
