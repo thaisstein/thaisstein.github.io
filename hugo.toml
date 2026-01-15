@@ -9,7 +9,7 @@ theme = "mana"
   author = "Your Name"
   favicon = "/favicon/logo-transparent/favicon.ico"
   heroTitleLine1 = "THAÍS STEINMULLER"
-  heroTitleLine2 = "MY BLOG "
+  heroTitleLine2 = "MY BLOG :)"
   
   # 404 Page Configuration
   # Custom message for the 404 error page (supports HTML)
