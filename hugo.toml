@@ -3,6 +3,9 @@ languageCode = 'en-US'
 title = "Your Site Title"
 theme = "mana"
 
+[caches]
+  [caches.images]
+  dir = 'cacheDir/images'
 # Theme configuration
 [params]
   description = "My dev journey"
