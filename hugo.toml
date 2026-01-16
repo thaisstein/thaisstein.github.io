@@ -1,15 +1,15 @@
 baseURL = 'https://thaisstein.github.io'
 languageCode = 'en-US'
-title = "Your Site Title"
+title = "Thaís Steinmuller Farias"
 theme = "mana"
 
 # Theme configuration
 [params]
-  description = "My dev journey"
+  description = "Here you'll find blog posts about technology, programming, and my personal projects."
   author = "Your Name"
   favicon = "/favicon/logo-transparent/favicon.ico"
-  heroTitleLine1 = "THAÍS STEINMULLER"
-  heroTitleLine2 = "MY BLOG :)"
+  heroTitleLine1 = "Welcome to"
+  heroTitleLine2 = "my blog :)"
   
   # 404 Page Configuration
   # Custom message for the 404 error page (supports HTML)
