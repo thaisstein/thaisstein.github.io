@@ -1,15 +1,14 @@
 baseURL = 'https://thaisstein.github.io'
 languageCode = 'en-US'
-title = "Thaís Steinmuller Farias"
+title = ""
 theme = "mana"
 
 # Theme configuration
 [params]
-  description = "Here you'll find blog posts about technology, programming, and my personal projects."
-  author = "Your Name"
+  description = "I’m Thaís, a computer engineer who likes building things, learning languages, and understanding how systems (technical or human) work. I’ve always been skeptical of neat labels and overly narrow identities, so this blog exists as a collection of thoughts in motion. Here you’ll find pieces about technology, languages, travel, and the occasional idea that refused to stay quiet. Think of it as a working notebook for curiosity. Welcome aboard."
   favicon = "/favicon/logo-transparent/favicon.ico"
-  heroTitleLine1 = "Welcome to"
-  heroTitleLine2 = "my blog :)"
+  heroTitleLine1 = "Welcome"
+  heroTitleLine2 = "This is where I think in public"
   
   # 404 Page Configuration
   # Custom message for the 404 error page (supports HTML)
