@@ -25,7 +25,7 @@ theme = "mana"
   [params.avatar]
     # General avatar (used as fallback if page-specific avatar not set)
     # If you have a hosted image you want to use as-is. The template will attempt to use this if set.
-    url = "https://raw.githubusercontent.com/thaisstein/thaisstein/5ee02efac73760e551e45e6f5816aeb710dc2d1a/iconworkThais.png"
+    url = "https://raw.githubusercontent.com/thaisstein/thaisstein/main/IMG_1992.PNG"
     
     # If you have an image you want to provide as an asset and run through Hugo's pipes to resize based on use.
     # This will only be used if "url" is *not* set.
