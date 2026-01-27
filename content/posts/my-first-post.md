@@ -1,30 +1,49 @@
 +++
 date = '2026-01-15T18:39:01-03:00'
 draft = false
-title = 'On Graduating as a Woman in Computer Engineering'
+title = 'Thoughts on being a woman in STEM'
 tags = ['introduction', 'personal']
 +++
 
 ## A square peg in a round hole
-Close your eyes and picture a computer engineering graduate. What comes to mind?
 
-Chances are, the image is one of two familiar types: a tech bro in a hoodie, holed up in a dark garage and lost in code, or an awkward nerd with thick glasses and a fondness for tabletop games.
+When I was 17 years old I decided to leave my parents' house to move to a city 600 km away. The reason? I've just won a scolarship to prepare to one of the hardest engineering admission tests in Brazil. 
 
-Neither of them looks like me. For a long time, that gap shaped how I understood my place in the field.
+When reminiscing about that time now I realize how young I (or anyone) was to make such a life changing decision but that's food for thought.
 
-So I internalized the stereotype. Because I didn’t fit it, I assumed the problem was me—my interests, my demeanor, my way of occupying the room. The absence of people who resembled me made that belief difficult to unlearn.
+The reason I'm telling you this is, this was the first of MANY experiences in my life so far that I would look around and realise I was one of the few women in the room. In there I think *maybe*. we were 15 out of 100. This percentage wouldn't vary much in the following years.
 
-Yet I graduated expecting that feeling to disappear. After all, I had done it: finished university, persisted as one of the few women in the room, and made it through years of feeling out of place, linear algebra, algorithm analysis, and compilers. That should have settled it. It mostly did, but why is it that i have a voice in my
+I remember elaborating a fucked up syllogism in one of the first weeks fueled my *also* fucked up self-esteem back then: 
+I am in the midst of the smartest people in the country ->
+Most of them are men ->
+I am not a man ->
+Therefore I'll never be able to be as smart as them ->
+Therefore I'm in the wrong place!!
 
-It has been six years since I began university. In 2019, I was accepted into computer engineering at UNICAMP. The year was marked by an unusually dense accumulation of firsts.
+Don't get me wrong, almost 10 years later I know enough about how society works to understand how ridiculous this reasoning was. 
 
-I was adjusting to a sudden expansion of social life while simultaneously confronting calculus, linear algebra, physics, and the task of learning to program. ChatGPT didn’t exist yet, and the impression—accurate or not—was that everyone else already knew how to code.
+But at that time, in my 17-year-old mind that was enough to fill me with a crippling imposter syndrome that followed me for years. A big white elephant in every single romm I entered - that right now is more like an obnoxious puppy dog that follows me around and sometimes jumps all over me but at least I can shoo it away... I would be lying if I told you it's not still there.
 
-I hadn’t printed a hello world in Python, yet I was expected to implement nontrivial data structures in C. This was before large language models, so learning involved building a left-leaning red–black tree from scratch, well before I understood pointers. I did learn, eventually. After a few sleepless nights.
+Either way, I didn't give up on STEM because of that, I actually just graduated in Computer Engineering. Even feeling like a square peg in a round hole during all these years I kept pushing through because the idea of giving up on my passion for physics and maths and my (**very idealistic**) dream of becoming an engineer was way worse.
+
+My point is: being a woman in STEM is hard on your confidence. At least it was hard on mine. And I think it's important to talk about it.
+
+After all be honest: when you think of a Computer Engineer, what image comes to mind?
+
+Chances are your mind came up with: a tech bro in a hoodie holed up in a garage, or an awkward nerd with thick glasses and a fondness for tabletop games. Of course pop culture doesn't help with that stereotype either, think Mr Robot, The Big Bang Theory, Silicon Valley.
+
+So honestly I don't blame myself for internalizing the steriotype.
+
+I graduated expecting that feeling to disappear. After all, I had done it: made it through years of feeling out of place, linear algebra, algorithm analysis, and compilers. And it mostly did. 
+
+This post is me trying to make sense of that. Why? Because if there's any chance you're a woman starting out in STEM and feeling like I did, I want you to know you're not alone.
+
 
 ## A brief history of women in computing
 
-We were twelve or thirteen women in a cohort of ninety-five.
+One of the most helpful things to unlearn stereotypes is understanding their origins. At least in my case, when I fear or feel some type of way about soemthing I like to learn the most I can about it. 
+
+Fun fact: it's exactly what I did with airplanes. I was so afraid of flying as a kid that I ended up reading everything I could about aerodynamics, flight mechanics, and airplane safety statistics. Safe to say that the fear is gone now.
 
 It’s easy to forget that this hasn’t always been the case. Programming once had a very different gender balance, one that history has largely smoothed over. What feels normal now is, in fact, relatively recent.
 
@@ -38,3 +57,5 @@ I had to learn python was a stupid and easy language to learn depite the python 
 
 https://www.bbc.com/portuguese/geral-43592581
 file:///Users/thais/Downloads/6707-625-5867-1-10-20190715.pdf
+
+## The importance of community
